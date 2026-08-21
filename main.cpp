@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello, Dien Gia Khiem!" << std::endl;
+    std::cout << "Hello, My name is Dien Gia Khiem!" << std::endl;
+    std::cout << "Welcome to OOP with C++" << std::endl;
     return 0;
 }
