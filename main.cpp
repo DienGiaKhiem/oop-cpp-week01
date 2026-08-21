@@ -18,3 +18,4 @@ int main() // Hàm main() là điểm bắt đầu của chương trình
 
     return 0; // Trả về giá trị 0 để kết thúc chương trình
 }
+//kiểm tra gits
