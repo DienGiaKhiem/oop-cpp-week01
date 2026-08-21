@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream> // Thư viện dùng để nhập/xuất dữ liệu
 
-int main()
+int main() // Hàm main() là điểm bắt đầu của chương trình
 {
     std::cout << "========================\n";
     std::cout << "    MY FIRST C++ APP    \n";
@@ -16,5 +16,5 @@ int main()
     std::cout << "     KEEP GOING        \n";
     std::cout <<"========================\n";
 
-    return 0;
+    return 0; // Trả về giá trị 0 để kết thúc chương trình
 }
